@@ -1,0 +1,6 @@
+{
+  "name": "Persona Studio Commune",
+  "description": "An interactive 3D creative commune and music production house where AI musician personas debate, converse, collaborate, and compose tracks in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
